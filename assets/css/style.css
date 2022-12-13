@@ -34,7 +34,7 @@ img{
     position: absolute;
     width: 60%;
     top: 13vmax;
-    left: 6vmax;
+    left: 2vmax;
     font-size: 1.3rem;
     color: white;
     animation: color 2s infinite ;
@@ -42,7 +42,7 @@ img{
 .name{
     position: absolute;
     font-size: 0.8rem;
-    left: 6vmax;
+    left: 2vmax;
     bottom: 1.2vmin;
     color: rgb(255, 254, 254);
     white-space: nowrap;
