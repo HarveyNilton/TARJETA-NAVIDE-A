@@ -33,7 +33,7 @@ img{
 .mensaje{
     position: absolute;
     width: 60%;
-    top: 13vmax;
+    top: 15vmax;
     left: 2vmax;
     font-size: 1.3rem;
     color: white;
@@ -65,18 +65,18 @@ img{
 }
 
 .bolos-navidad{
-    width: 15vmax;
+    width: 12vmax;
     position: absolute;
   right: 0;
     
 }
 .corona-izquierdo{
-    width: 15vmax;
+    width: 12vmax;
     position: absolute;
   left: 0;
 }
 .bolones-centro{
-    width: 15vmax;
+    width: 12vmax;
     position: absolute;
   left: 35%;
 }
