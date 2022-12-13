@@ -25,24 +25,24 @@ img{
 .container-car{
     background: green;
     position: relative;
-    width: 90%;
-    height: 40vmax;
+    width: 90vmin;
+    height: 70vmin;
     box-shadow: 2px 2px 15px 1px rgb(255, 0, 0);
     
 }
 .mensaje{
     position: absolute;
     width: 60%;
-    top: 12vmax;
-    left: 8vmax;
-    font-size: 3.5vmax;
+    top: 13vmax;
+    left: 2vmax;
+    font-size: 1rem;
     color: white;
     animation: color 2s infinite ;
 }
 .name{
     position: absolute;
-    font-size: 2.6vmax;
-    left: 8vmax;
+    font-size: 0.8rem;
+    left: 2vmax;
     bottom: 1vmin;
     color: rgb(255, 254, 254);
     white-space: nowrap;
