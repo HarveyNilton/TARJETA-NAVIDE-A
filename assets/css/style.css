@@ -34,16 +34,16 @@ img{
     position: absolute;
     width: 60%;
     top: 13vmax;
-    left: 2vmax;
-    font-size: 1rem;
+    left: 6vmax;
+    font-size: 1.3rem;
     color: white;
     animation: color 2s infinite ;
 }
 .name{
     position: absolute;
     font-size: 0.8rem;
-    left: 2vmax;
-    bottom: 1vmin;
+    left: 6vmax;
+    bottom: 1.2vmin;
     color: rgb(255, 254, 254);
     white-space: nowrap;
     border-right: 4px solid;
