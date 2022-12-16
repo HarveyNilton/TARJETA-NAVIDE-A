@@ -22,7 +22,7 @@ img{
 .container-car{
     display: flex;
     flex-direction: column;
-   
+
     justify-content: baseline;
     margin: 20vmin auto;
   
